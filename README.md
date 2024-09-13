@@ -23,7 +23,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/dengue-fever-prediction-app.git
+git clone https://github.com/ateeq331/Dengue_Classification.git
 Open the Project in Android Studio:
 
 Launch Android Studio.
