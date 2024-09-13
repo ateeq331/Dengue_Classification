@@ -1,8 +1,9 @@
-Dengue Fever Prediction Android App
+**Dengue Fever Prediction Android App**
+
 Overview
 The Dengue Fever Prediction App allows users to predict the likelihood of dengue fever based on various medical and environmental factors. It is powered by a machine learning model trained to analyze input features such as blood test results, patient condition, and weather conditions. The app provides an easy-to-use interface for doctors and healthcare professionals to assess the risk of dengue fever in patients.
 
-Features
+**Features**
 User-friendly Interface: Simple, clean, and intuitive design for entering medical and environmental data.
 Real-time Prediction: Provides instant predictions based on the input data using a trained Random Forest model.
 Secure Data Handling: Ensures all medical data entered is processed securely within the app.
@@ -11,7 +12,7 @@ Responsive and Mobile-friendly Design: Optimized for both mobile and tablet devi
 Screenshots
 Include screenshots of the splash screen, prediction form, and results screen to showcase the app's interface.
 
-Installation
+**Installation**
 To run this app on your Android device, follow these steps:
 
 Prerequisites
@@ -89,5 +90,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any questions or feedback, please contact:
 
-Developer: Muhammad Ateeq Haider
+Developer: **Muhammad Ateeq Haider**
 Email: andrddvlpr.2208@gmail.com
